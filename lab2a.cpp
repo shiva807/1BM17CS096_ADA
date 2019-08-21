@@ -26,7 +26,7 @@ int main()
 
 int n, k, i, ans;
 fstream f;
-f.open("testcases_lab2.txt");
+f.open("testcases_lab2a.txt");
 f>>n;
 int a[n];
 
