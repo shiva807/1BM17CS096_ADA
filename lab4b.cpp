@@ -1,3 +1,6 @@
+#include<bits/stdc++.h>
+using namespace std;
+
 #define m 3
 #define n 5
 void DFS(int a[][n], int row, int col, bool visited[][n]);
